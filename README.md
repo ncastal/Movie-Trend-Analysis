@@ -1,4 +1,6 @@
-# project1
+# Movie-Trend-Analysis
+
+This project takes a look at movie industry trends during the period of 1997-2017 using Jupyter Notebook and Pandas to clean and visualize the data.
 
 To draw a general conclusion, the movie industry peaked in 2014 however has been
 declining since. Though no concrete conclusion was established there are some hypothesis
